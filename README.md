@@ -1,4 +1,4 @@
-# QuizzApp #
+# Preview of the project #
 
 ## simple Q&amp;A app using html-css-javascript ##
 
